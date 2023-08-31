@@ -1,0 +1,40 @@
+.cat{
+    border: 1px solid black;
+    width: 310px;
+    padding: 70px ;
+    margin-left: 40%;
+
+}
+.contenedorImagen img{
+    width: 300px;
+}
+.imagen{
+    width: 300px;
+}
+.botones{
+    display: flex;
+    flex-direction: row;
+}
+
+.botones div {
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.circuloRojo{
+    background-color: red;
+}
+.circuloGris{
+    background-color: gray;
+}
+.circuloAzul{
+    background-color: blue;
+}
+.boton{
+     
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    background-color:bisque;
+}
