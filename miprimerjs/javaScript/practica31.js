@@ -43,17 +43,17 @@ botonAmarillo.addEventListener("click",()=>{
   console.log(imagenes,titulo)
   
   circuloRojo.addEventListener("click",()=>{
-    imagenes.src="./imagenes/carroRojo.jpg"
+    imagenes.src="/miprimerjs/imagenes/carroRojo.jpg"
     titulo.textContent="chevrolet tracker rojo"
     descripcion.textContent="Con Chevrolet Tracker Turbo, no tienes que elegir entre tecnología, rendimiento o seguridad, porque tienes todo en un mismo lugar. Conoce la única camioneta que ofrece frenado de emergencia, 6 airbags, cargador inalámbrico y mucho más, variedad de colores tal como este color rojo"
   })
   circuloAzul.addEventListener("click",()=>{
-    imagenes.src="./imagenes/carroAzul.jfif"
+    imagenes.src="../imagenes/carroAzul.jfif"
     titulo.textContent="chevrolet tracker azul"
     descripcion.textContent="Con Chevrolet Tracker Turbo, no tienes que elegir entre tecnología, rendimiento o seguridad, porque tienes todo en un mismo lugar. Conoce la única camioneta que ofrece frenado de emergencia, 6 airbags, cargador inalámbrico y mucho más, variedad de colores tal como este color azul"
   })
   circuloGris.addEventListener("click",()=>{
-    imagenes.src="./imagenes/carroGris.jpg"
+    imagenes.src="../imagenes/carroGris.jpg"
     titulo.textContent="chevrolet tracker gris"
     descripcion.textContent="Con Chevrolet Tracker Turbo, no tienes que elegir entre tecnología, rendimiento o seguridad, porque tienes todo en un mismo lugar. Conoce la única camioneta que ofrece frenado de emergencia, 6 airbags, cargador inalámbrico y mucho más, variedad de colores tal como este color gris"
 
