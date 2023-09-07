@@ -15,8 +15,7 @@ let ul
    }
 
 boton.addEventListener("click",()=>{
-   funcion(agregar,
-    document.body.appendChild(lista))
+   funcion(document.body.appendChild(lista))
    
      
 })
