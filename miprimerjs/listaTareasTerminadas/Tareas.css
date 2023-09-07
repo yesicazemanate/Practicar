@@ -1,0 +1,18 @@
+.barra{
+  background-color: rgb(56, 219, 19);
+  height: 20px;
+
+  border-radius: 20px;
+}
+.tareas{
+    color: crimson;
+}
+.contenedor{
+border-radius: 20px;
+border: 1px solid black;
+height: 20px;
+width: 100%;
+}
+body{
+background-color: rgb(248, 246, 244);
+}
